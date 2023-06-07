@@ -1,0 +1,15 @@
+C:\Users\Filip\Documents\GitHub\algorithms\bin\Debug\net7.0\algorithms.exe
+C:\Users\Filip\Documents\GitHub\algorithms\bin\Debug\net7.0\algorithms.deps.json
+C:\Users\Filip\Documents\GitHub\algorithms\bin\Debug\net7.0\algorithms.runtimeconfig.json
+C:\Users\Filip\Documents\GitHub\algorithms\bin\Debug\net7.0\algorithms.dll
+C:\Users\Filip\Documents\GitHub\algorithms\bin\Debug\net7.0\algorithms.pdb
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.AssemblyInfo.cs
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.dll
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\refint\algorithms.dll
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.pdb
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\algorithms.genruntimeconfig.cache
+C:\Users\Filip\Documents\GitHub\algorithms\obj\Debug\net7.0\ref\algorithms.dll
